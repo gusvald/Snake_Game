@@ -6,12 +6,12 @@ set(CMAKE_CXX_STANDARD 14)
 
 project(snake_MW_CZ15_253048)
 
-set(CMAKE_CXX_FLAGS "-Wall -Wextra")
+set("${CMAKE_CXX_FLAGS} -static-libstdc++ -static-libgcc")
 
 enable_testing()
 
 include_directories(src)
 
 add_subdirectory(src)
-add_subdirectory(tests)
+
 
