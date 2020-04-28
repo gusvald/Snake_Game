@@ -1,0 +1,7 @@
+C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src/CMakeFiles/MyApp.dir
+C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src/CMakeFiles/test.dir
+C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src/CMakeFiles/edit_cache.dir

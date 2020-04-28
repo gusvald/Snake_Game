@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="snake_MW_CZ15_253048"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\app\;CMake Files\..\..\..\..\app\SFML-2.5.1\;CMake Files\..\..\..\..\app\SFML-2.5.1\lib\;CMake Files\..\..\..\..\app\SFML-2.5.1\lib\cmake\;CMake Files\..\..\..\..\app\SFML-2.5.1\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option working_dir="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MyApp">
+				<Option output="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src/MyApp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src"/>
+					<Add directory="C:/app/SFML-2.5.1/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 MyApp"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MyApp/fast">
+				<Option output="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src/MyApp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DSFML_STATIC"/>
+					<Add directory="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src"/>
+					<Add directory="C:/app/SFML-2.5.1/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-7.3.0-posix-seh-rt_v5-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 MyApp/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/cmake-build-debug/src/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src/BoardView.cpp">
+			<Option target="MyApp"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src/BoardView.h">
+			<Option target="MyApp"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src/HowHard.cpp">
+			<Option target="MyApp"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src/HowHard.h">
+			<Option target="MyApp"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src/MenuView.cpp">
+			<Option target="MyApp"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src/MenuView.h">
+			<Option target="MyApp"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src/ResultsView.cpp">
+			<Option target="MyApp"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src/ResultsView.h">
+			<Option target="MyApp"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src/SnakeLogic.cpp">
+			<Option target="MyApp"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src/SnakeLogic.h">
+			<Option target="MyApp"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src/main.cpp">
+			<Option target="MyApp"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src/snakeDrawing.cpp">
+			<Option target="MyApp"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src/snakeDrawing.h">
+			<Option target="MyApp"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/../../../../app/SFML-2.5.1/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\app\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/../../../../app/SFML-2.5.1/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\app\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/../../../../app/SFML-2.5.1/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\app\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/../../../../app/SFML-2.5.1/lib/cmake/SFML/SFMLStaticTargets-debug.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\app\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/../../../../app/SFML-2.5.1/lib/cmake/SFML/SFMLStaticTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\app\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="C:/Users/48660/CLionProjects/snake_MW_CZ15_253048/../../../../app/SFML-2.5.1/lib/cmake/SFML/SFMLStaticTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\app\SFML-2.5.1\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

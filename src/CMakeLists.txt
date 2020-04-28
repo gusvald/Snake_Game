@@ -33,7 +33,7 @@ find_package(SFML 2 COMPONENTS graphics audio REQUIRED)
 
 file(GLOB_RECURSE SOURCES LIST_DIRECTORIES true *.hpp *.cpp)
 
-add_executable(MyApp main.cpp)
+add_executable(MyApp main.cpp SnakeLogic.cpp SnakeLogic.h snakeDrawing.cpp snakeDrawing.h BoardView.cpp BoardView.h MenuView.cpp MenuView.h ResultsView.cpp ResultsView.h HowHard.cpp HowHard.h)
 
 target_link_libraries(MyApp sfml-graphics sfml-audio)
 
